@@ -1,0 +1,26 @@
+{
+  "name": "mpower-web-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "axios": "1.4.0",
+    "recharts": "2.7.2",
+  "@mui/material": "5.14.3"
+  },
+  "devDependencies": {
+  "tailwindcss": "3.4.8",
+  "postcss": "8.4.24",
+  "autoprefixer": "10.4.13",
+  "eslint": "8.35.0",
+  "eslint-config-next": "14.2.0"
+  }
+}
